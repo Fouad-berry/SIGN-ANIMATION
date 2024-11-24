@@ -1,9 +1,9 @@
 body {
-    background: url('https://img.freepik.com/premium-photo/abstract-blurred-sky-colorful_40299-22.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-color: gray;
   }
   
   @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
